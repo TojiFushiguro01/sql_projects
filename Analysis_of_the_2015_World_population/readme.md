@@ -1,7 +1,5 @@
 # Analysis of the world population in 2015 
 
-![header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3ef4c925850873.5634bb924adc1.jpg)
-
 In this project, we'll work with data from the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/), a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like:
 
 population - The population as of 2015. population_growth - The annual population growth rate, as a percentage. area - The total land and water area.
